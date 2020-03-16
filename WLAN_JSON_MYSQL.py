@@ -11,7 +11,6 @@ def WLAN_VALIDATE(val):
 
 
 def WLAN_MYSQL():
-    try:
        file = "/home/devnet/wlan_sensor/server/DATABASE/DATABASE.json"
        json_data=open(file).read()
        WLAN_JSON_OBJ = json.loads(json_data)
@@ -35,11 +34,6 @@ def WLAN_MYSQL():
        con.commit()
        con.close()
        print('Success!')
-
-    except:
-        print('Error')
-        time.sleep(5)
-        WLAN_MYSQL()
 
 
 if __name__ == '__main__':
