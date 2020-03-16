@@ -1,550 +1,136 @@
 [{
-    "WLAN_ID": "a1207f67b4b5b4574edccf166db9ce68f1b34e9b8c4746e2f070808c4c56a17b",
-    "WLAN_TIME": 1584369446,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-69",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "c5d7199cd675cf1d7f77001b96e5e3285e9fdef39858b1f2d9756b38bfd0470a",
-    "WLAN_TIME": 1584369439,
+    "WLAN_ID": "d710dd711a893355fad9439dae43b74ad529e97c36efbc9204c14020d0281d27",
+    "WLAN_TIME": 1584377604,
     "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
     "WLAN_IPV4": "192.168.1.79",
     "WLAN_RATE(Mbps)": "97.5",
-    "WLAN_SIGNAL(dBm)": "-68",
+    "WLAN_SIGNAL(dBm)": "-67",
     "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
+    "WLAN_RETRIES": "24"
 },{
-    "WLAN_ID": "cde677d384390143cfb8c66260933efcb58b4ebb2084220d118f20eb3f7c5936",
-    "WLAN_TIME": 1584369458,
+    "WLAN_ID": "2d684110abe5841a74653b92302f72072a15b2081f390d8acd7a71205fb670e4",
+    "WLAN_TIME": 1584377621,
     "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
     "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "b890a15338be3b41f798035feb5f8ae4bc5a55774151554ec9a5a2a0ed3bffd9",
-    "WLAN_TIME": 1584369413,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "175.5",
-    "WLAN_SIGNAL(dBm)": "-70",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "77e07e0fd47357bfe47260c81e845c4092943243cec1459647bf7c6e778edbce",
-    "WLAN_TIME": 1584369440,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "97.5",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "c8ad60f423dac68d3ba52aed5b2672dcb11695c3c6dc87896b57de1c47302191",
-    "WLAN_TIME": 1584369464,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
+    "WLAN_RATE(Mbps)": "87.7",
     "WLAN_SIGNAL(dBm)": "-71",
     "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
+    "WLAN_RETRIES": "24"
 },{
-    "WLAN_ID": "23402cc3f1497f76fccd3e56bb76129ace9e19d29b7ae56f9dc65c03dd79f77d",
-    "WLAN_TIME": 1584369428,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "87.7",
-    "WLAN_SIGNAL(dBm)": "-70",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "2f56b63ced711aae990a2d4517faefff37c8c318beaade816946dec86247dcce",
-    "WLAN_TIME": 1584369430,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "97.5",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "bf616272ef11d82b7b17ad4ac5e69f727bfb869c14d754f425604cbd8c431e6d",
-    "WLAN_TIME": 1584369462,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "6491d1c10d47a174aa825b6ae9eb3510cead03031da49032ad224c917d65aba6",
-    "WLAN_TIME": 1584369467,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "c76b8276bca2876d674dda7656c2ac292cd2f2fd305d5da7a6af71480e45eb49",
-    "WLAN_TIME": 1584369445,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-69",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "836052412c92773e8e141a8d75f990f5594ad137a13be562cadd9fe0e7bdc327",
-    "WLAN_TIME": 1584369473,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-67",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "8efffb1ad9c7bbee1e29e81248bb41f2d7400181a13a57f3a3a1450698958367",
-    "WLAN_TIME": 1584369460,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "e496c408a046a00f0ddac3794fe343a6b2b6ee19206cdb19e9601c35f807b693",
-    "WLAN_TIME": 1584369465,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-70",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "9ea4fe4d3eeb6a579f09cc97ebf812b55bb279e43db00d3805646093390271f9",
-    "WLAN_TIME": 1584369455,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-70",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "625599b7627560d3122fa87bb4d6a252420277b6092629fc225e56a9fe35e033",
-    "WLAN_TIME": 1584369414,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "175.5",
-    "WLAN_SIGNAL(dBm)": "-70",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "62785bee271330418fab959f9ee0b91714c7d2cdbe4a303a260b9175d7f8743c",
-    "WLAN_TIME": 1584369453,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "65a9a722d4e47e2ecb002858df77068ea28fe232ca64f5e01461096c1fd5d38b",
-    "WLAN_TIME": 1584369444,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "97.5",
-    "WLAN_SIGNAL(dBm)": "-69",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "2a2d825a6b6e54cecb01cbc5488b32e3892dcba78832049472b14933c599a578",
-    "WLAN_TIME": 1584369454,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-69",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "74aa93bb3d7bb1dd14c3d69c65a3c66b7e98b1e850cc1412ac9dabaf710c3906",
-    "WLAN_TIME": 1584369412,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "175.5",
-    "WLAN_SIGNAL(dBm)": "-71",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "4f9d9e1943e45fe220b1f1225a206219e3ea55d8557216b7c0a1a1228b8d699e",
-    "WLAN_TIME": 1584369424,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "87.7",
-    "WLAN_SIGNAL(dBm)": "-67",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "fd83780d5b9470a5740c363c351dd25717622675450f632559d7405a837b6806",
-    "WLAN_TIME": 1584369441,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "97.5",
-    "WLAN_SIGNAL(dBm)": "-69",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "5d2dedf0be026fdedada821bc8390ab13db922e329e516e7ed3a07c439a92d8f",
-    "WLAN_TIME": 1584369411,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "175.5",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "88b6d752241ccf27ffb91f71fc6a44cc801327744831c04e713054efbbcb772e",
-    "WLAN_TIME": 1584369437,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "97.5",
-    "WLAN_SIGNAL(dBm)": "-69",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "7e0739bde2b714a4860f0969f146d05cc8cc5fadb41dc5ae2d30e0efba9719d7",
-    "WLAN_TIME": 1584369418,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "87.7",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "e51f3307920d983687cd281781c6b28dc2ad16af39b3baf4c4228c5fefe9f753",
-    "WLAN_TIME": 1584369433,
+    "WLAN_ID": "8f1ebc178362fcc2a5f5caf23d653c03d31f151c0770af1e74cc701ec1de4161",
+    "WLAN_TIME": 1584377608,
     "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
     "WLAN_IPV4": "192.168.1.79",
     "WLAN_RATE(Mbps)": "97.5",
     "WLAN_SIGNAL(dBm)": "-67",
     "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
+    "WLAN_RETRIES": "24"
 },{
-    "WLAN_ID": "7fc7e22b2d1262389379fec50b4687599ddbaef914164ae11772a7b9c54a07bb",
-    "WLAN_TIME": 1584369432,
+    "WLAN_ID": "5cd36ddbf484b8ff232a0060925c3bdd925284f4ff44da933b18a1e41d82a104",
+    "WLAN_TIME": 1584377588,
     "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
     "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "97.5",
+    "WLAN_RATE(Mbps)": "87.7",
+    "WLAN_SIGNAL(dBm)": "-65",
+    "WLAN_TX_POWER(dBm)": "31",
+    "WLAN_RETRIES": "24"
+},{
+    "WLAN_ID": "e720a827aca2c17929df5fc1535f48e4d98d5ceb378cfb010c06881f6909c082",
+    "WLAN_TIME": 1584377637,
+    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
+    "WLAN_IPV4": "192.168.1.79",
+    "WLAN_RATE(Mbps)": "87.7",
+    "WLAN_SIGNAL(dBm)": "-68",
+    "WLAN_TX_POWER(dBm)": "31",
+    "WLAN_RETRIES": "24"
+},{
+    "WLAN_ID": "5fb9e8bf113e5c92d8512b9082fbc14d4c6231d3d6d3fb07f6df8504a054ffa6",
+    "WLAN_TIME": 1584377629,
+    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
+    "WLAN_IPV4": "192.168.1.79",
+    "WLAN_RATE(Mbps)": "87.7",
+    "WLAN_SIGNAL(dBm)": "-69",
+    "WLAN_TX_POWER(dBm)": "31",
+    "WLAN_RETRIES": "24"
+},{
+    "WLAN_ID": "0dced4cb0aae49db35200ad55557ca5e89f3d1e9aab4f4b74e640b8915e17049",
+    "WLAN_TIME": 1584377633,
+    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
+    "WLAN_IPV4": "192.168.1.79",
+    "WLAN_RATE(Mbps)": "87.7",
+    "WLAN_SIGNAL(dBm)": "-67",
+    "WLAN_TX_POWER(dBm)": "31",
+    "WLAN_RETRIES": "24"
+},{
+    "WLAN_ID": "de7b4755a7658d06538b88969d0e349563a5d55fb13f707e2f265862f1a29275",
+    "WLAN_TIME": 1584377625,
+    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
+    "WLAN_IPV4": "192.168.1.79",
+    "WLAN_RATE(Mbps)": "87.7",
+    "WLAN_SIGNAL(dBm)": "-69",
+    "WLAN_TX_POWER(dBm)": "31",
+    "WLAN_RETRIES": "24"
+},{
+    "WLAN_ID": "48d0fa7a104b99ffe2a1182b3fc89c1f72b0a678dd627a2ac6591239f76509e3",
+    "WLAN_TIME": 1584377592,
+    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
+    "WLAN_IPV4": "192.168.1.79",
+    "WLAN_RATE(Mbps)": "87.7",
     "WLAN_SIGNAL(dBm)": "-66",
     "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
+    "WLAN_RETRIES": "24"
 },{
-    "WLAN_ID": "bf48f6a955e10a4054cff56e572f0dfe114fa110b5e6ba57a39d23588494a9df",
-    "WLAN_TIME": 1584369459,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "fa96294453594abf88c91cea4372651056df0a767e57190700ea09a1b7d90a54",
-    "WLAN_TIME": 1584369466,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-69",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "fec6aeaf5b8024e19ad1b982db6bf6452dcc8252954622338660a058bd4cd2a8",
-    "WLAN_TIME": 1584369449,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "4e3a1b49c5e90616a89a612cdefacbf501de99f0511c0de53c45bae87fdbdad4",
-    "WLAN_TIME": 1584369417,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "36d0343b68a0a0e9164c95f19e89d66a41d57cd3aca6c8f2a20590fa41a37966",
-    "WLAN_TIME": 1584369469,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "b3c032e997d989a40582b0530cd996677c85d6bc3c0ea56755ef63175789953f",
-    "WLAN_TIME": 1584369426,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "87.7",
-    "WLAN_SIGNAL(dBm)": "-69",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "d5558612f06844611d17f06212b187b67d7129b416242b374dd550dabfa19bbd",
-    "WLAN_TIME": 1584369431,
+    "WLAN_ID": "032cf8c234f803b64c3178141087432a404374fd18aefec0c0f209730f68dce4",
+    "WLAN_TIME": 1584377612,
     "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
     "WLAN_IPV4": "192.168.1.79",
     "WLAN_RATE(Mbps)": "97.5",
-    "WLAN_SIGNAL(dBm)": "-67",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "389cb259ea22d955359803548e41cd739607003cd1aa410991ddbe7ab630e843",
-    "WLAN_TIME": 1584369451,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "04e77da9c17fc7993894f3c1575a5a927d76b1ad51d4a5996e652ac8ee3a85d5",
-    "WLAN_TIME": 1584369408,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-66",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "5193d140c1bd45ebcae9fabba9e354b6a5365342e7045621915049044c7313c0",
-    "WLAN_TIME": 1584369423,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "87.7",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "eaa3ec8f02c4badaffa53338a8982935a416c6b7ffd436db0b3c95bdeb270f69",
-    "WLAN_TIME": 1584369456,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "9b6b078be9a4d8a3a9c95e071afd820f13215cbfad193f40d007fb2f1d505051",
-    "WLAN_TIME": 1584368845,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-67",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "4279b2031c2b8f643e184a7de597fd193d07919579fed5bb838b0d677df83d93",
-    "WLAN_TIME": 1584369471,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-67",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "767bb953de4e80b6b75fb3d2d1d81d7c8dab9eb9fc84e4427b18fcbf9aba2951",
-    "WLAN_TIME": 1584369419,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "87.7",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "b7804fca2b3d7ca9ee3e87ff3a447e1f42e77e02e163d78a059f4a1730d89f50",
-    "WLAN_TIME": 1584369415,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "27de82b5a01d775b927fbc3070bd110e12c85546d71dff6bff8b8a87649e7e86",
-    "WLAN_TIME": 1584369457,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-69",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "d4ce231cbf6a1620667858193edb79395063abb69ac0055fda776b57378c8231",
-    "WLAN_TIME": 1584369436,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "97.5",
-    "WLAN_SIGNAL(dBm)": "-69",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "381c9512e01fe45ca6878efb5b99f82abf9df82bb1bb3745097258615ba5caec",
-    "WLAN_TIME": 1584369435,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "97.5",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "fd9fd27de0f96032ca0191b068864502775bd795be37cf59990be18bea75911e",
-    "WLAN_TIME": 1584369438,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "97.5",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "681981ea1ea23bf890b90dd52f41e21af68f35ea7525536ac925cd337e928a99",
-    "WLAN_TIME": 1584369421,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "87.7",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "0cd54d9be1a47f366a7a3e46c6cb967cd846137c76ab877d13d842b65aaa4645",
-    "WLAN_TIME": 1584369427,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "87.7",
     "WLAN_SIGNAL(dBm)": "-70",
     "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
+    "WLAN_RETRIES": "24"
 },{
-    "WLAN_ID": "462629adf69f30db56ea24ff5c40e02b2c8944a3e0377ff6067f0559c55c3a66",
-    "WLAN_TIME": 1584369410,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "bc0ac53240fdb07b12a28b9a2215e4e7f4690a936dd7778bc57c44b6820d1570",
-    "WLAN_TIME": 1584369422,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "87.7",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "e61da9529be41ab72a9275a070e2d47044ec56d4a6f03440a53f7e4baec1abee",
-    "WLAN_TIME": 1584369472,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-67",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "6820350282dea7b07ddbb1190370ca81028541a9ce9f26974bd5c72ada483ed9",
-    "WLAN_TIME": 1584369474,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-69",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "14f7911b0eac31cf53b8d546b100284f41e7b4f374b17fadf4326ba32bbcb87e",
-    "WLAN_TIME": 1584369468,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "89a5f35ca033d46f1a0e3a35d5e966cfb2c5e483c53f0394204cb8a9c993569a",
-    "WLAN_TIME": 1584369450,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-68",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "43f19a749d98828db99b50e21aae833d07632b4d2f81ace27b3980b444351f66",
-    "WLAN_TIME": 1584369448,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
-    "WLAN_SIGNAL(dBm)": "-67",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "232aee41c2faf41d5e08bb56bccf88e881cf6008fcc84c1b64f1264ae7f7ac28",
-    "WLAN_TIME": 1584369409,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-67",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
-},{
-    "WLAN_ID": "451893d46c57993abfa34f8612deb154df991493b36a4b2677234a79b0407e05",
-    "WLAN_TIME": 1584369463,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "130",
-    "WLAN_SIGNAL(dBm)": "-70",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "73a81cd034a2a78ee190d2edaacf9b08b7407d5bad843b89c77d32f3f5d83f15",
-    "WLAN_TIME": 1584369442,
-    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
-    "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "97.5",
-    "WLAN_SIGNAL(dBm)": "-71",
-    "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
-},{
-    "WLAN_ID": "450104f826f8b8d2b8bbcd9af65f6050ec050b31e2ab1edbe6f9db5ad3a28121",
-    "WLAN_TIME": 1584369429,
+    "WLAN_ID": "c664a7cb7f0753dedbe0c3b655cdab88881439250502289804913de2c3d7186a",
+    "WLAN_TIME": 1584377596,
     "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
     "WLAN_IPV4": "192.168.1.79",
     "WLAN_RATE(Mbps)": "97.5",
     "WLAN_SIGNAL(dBm)": "-69",
     "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
+    "WLAN_RETRIES": "24"
 },{
-    "WLAN_ID": "7e409988a76ed2d4534db9228bf5a24129cf865e93e79cfffc3741afa1fddbcc",
-    "WLAN_TIME": 1584369420,
+    "WLAN_ID": "d956f4021673f1ae484556f21dfa55aac661f9b6f95b083ad984deebcf786035",
+    "WLAN_TIME": 1584377583,
     "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
     "WLAN_IPV4": "192.168.1.79",
     "WLAN_RATE(Mbps)": "87.7",
-    "WLAN_SIGNAL(dBm)": "-68",
+    "WLAN_SIGNAL(dBm)": "-65",
     "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "14"
+    "WLAN_RETRIES": "24"
 },{
-    "WLAN_ID": "6304d3c14e225c1d4c698b5a2df1081dbcdb96890d4cf65fcaa3292ebb0c8d41",
-    "WLAN_TIME": 1584369447,
+    "WLAN_ID": "4557018523b0f339df2a4fc07927e0f16fbf51c7b24c66656ab8d752d5ee42db",
+    "WLAN_TIME": 1584377616,
     "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
     "WLAN_IPV4": "192.168.1.79",
-    "WLAN_RATE(Mbps)": "117",
+    "WLAN_RATE(Mbps)": "97.5",
+    "WLAN_SIGNAL(dBm)": "-69",
+    "WLAN_TX_POWER(dBm)": "31",
+    "WLAN_RETRIES": "24"
+},{
+    "WLAN_ID": "ad0d3d49b71996688ccda17c8cf749899e07d2f50c6da3532162de03f76f7d74",
+    "WLAN_TIME": 1584377579,
+    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
+    "WLAN_IPV4": "192.168.1.79",
+    "WLAN_RATE(Mbps)": "87.7",
+    "WLAN_SIGNAL(dBm)": "-67",
+    "WLAN_TX_POWER(dBm)": "31",
+    "WLAN_RETRIES": "24"
+},{
+    "WLAN_ID": "3b51a409f7a2c10b51e8998855ad75d5ad0f390a4855ec55f2001297a7e364a3",
+    "WLAN_TIME": 1584377600,
+    "WLAN_HARDWARE_MAC": "dc:a6:32:2c:a0:a3",
+    "WLAN_IPV4": "192.168.1.79",
+    "WLAN_RATE(Mbps)": "97.5",
     "WLAN_SIGNAL(dBm)": "-68",
     "WLAN_TX_POWER(dBm)": "31",
-    "WLAN_RETRIES": "16"
+    "WLAN_RETRIES": "24"
 }]
