@@ -10,7 +10,7 @@ def WLAN_MOVE_FILE():
 
     except:
         time.sleep(1)
-        WLAN_MOVE_FILE()
+        print('----FAILED TO MOVE JSON FILE SKIPPING')
 	  
 def WLAN_DELETE_FILE():
     try:
@@ -19,18 +19,22 @@ def WLAN_DELETE_FILE():
 
     except:
         time.sleep(1)
-        WLAN_DELETE_FILE()	  
+        print('----FAILED TO DELETE JSON FILE, SKIPPING') 
 		
 		
 def WLAN_IMPORT_FILE():		
+
+    
     print("TRYING TO IMPORT NEW JSON FILE TO THE DATABASE")
 
     try:
-        WLAN_JSON_MYSQL.WLAN_MYSQL()
+       WLAN_JSON_MYSQL.WLAN_MYSQL()
+       print('SUCCESS TO IMPORT, GOING TO COUNTING DOWN')
 
     except:
-        time.sleep(5)
-        WLAN_IMPORT_FILE()
+       print('----FAILED TO IMPORT. RESTARTING THE PROCESS')
+       time.sleep(1)
+
 
 if __name__ == '__main__':
 
@@ -39,6 +43,6 @@ if __name__ == '__main__':
     WLAN_MOVE_FILE()
     WLAN_IMPORT_FILE()
     WLAN_DELETE_FILE()
-    print("Counting down 30 seconds")
-    time.sleep(70)
+    print("Counting down 15 seconds")
+    time.sleep(15)
 

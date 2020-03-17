@@ -33,7 +33,6 @@ def WLAN_MYSQL():
 
        con.commit()
        con.close()
-       print('Success!')
 
 
 if __name__ == '__main__':
