@@ -5,7 +5,7 @@ import WLAN_JSON_MYSQL
 
 def WLAN_MOVE_FILE():
     try:
-        print("MOVING JSON FILE TO DATABASE FOLDER")
+        print("\n\n###################################################\n\nMOVING JSON FILE TO DATABASE FOLDER")
         sp.getoutput('mv -f /home/devnet/wlan_sensor/client/*.json /home/devnet/wlan_sensor/server/DATABASE/DATABASE.json')
 
     except:
@@ -43,6 +43,6 @@ if __name__ == '__main__':
     WLAN_MOVE_FILE()
     WLAN_IMPORT_FILE()
     WLAN_DELETE_FILE()
-    print("Counting down 15 seconds")
+    print("COUNTING DOWN 15 SECONDS\n\n###################################################")
     time.sleep(15)
 
