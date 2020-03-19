@@ -43,6 +43,6 @@ if __name__ == '__main__':
 
     WLAN_MOVE_FILE()
     WLAN_IMPORT_FILE()
-    print("O) COUNTING DOWN 45 SECONDS\n\n###################################################")
-    time.sleep(45)
+    print("O) COUNTING DOWN 10 SECONDS\n\n###################################################")
+    time.sleep(10)
 
