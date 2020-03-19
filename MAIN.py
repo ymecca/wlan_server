@@ -5,7 +5,7 @@ import WLAN_JSON_MYSQL
 
 def WLAN_MOVE_FILE():
     try:
-        print("\n\n###################################################\n\nMOVING JSON FILE TO DATABASE FOLDER")
+        print("\n\n###################################################\n\nO) MOVING JSON FILE TO DATABASE FOLDER")
         sp.getoutput('mv -f /home/devnet/wlan_sensor/client/*.json /home/devnet/wlan_sensor/server/DATABASE/DATABASE.json')
 
     except:
@@ -14,7 +14,7 @@ def WLAN_MOVE_FILE():
 	  
 def WLAN_DELETE_FILE():
     try:
-        print("DELETING JSON FILE")
+        print("O) DELETING JSON FILE")
         sp.getoutput('rm -rf /home/devnet/wlan_sensor/server/DATABASE/DATABASE.json')
 
     except:
@@ -25,14 +25,15 @@ def WLAN_DELETE_FILE():
 def WLAN_IMPORT_FILE():		
 
     
-    print("TRYING TO IMPORT NEW JSON FILE TO THE DATABASE")
+    print("O) TRYING TO IMPORT NEW JSON FILE TO THE DATABASE")
 
     try:
        WLAN_JSON_MYSQL.WLAN_MYSQL()
-       print('SUCCESS TO IMPORT, GOING TO COUNTING DOWN')
+       print('----SUCCESS TO IMPORT')
+       WLAN_DELETE_FILE()
 
     except:
-       print('----FAILED TO IMPORT. RESTARTING THE PROCESS')
+       print('----FAILED TO IMPORT. SKIPPING')
        time.sleep(1)
 
 
@@ -42,7 +43,6 @@ if __name__ == '__main__':
 
     WLAN_MOVE_FILE()
     WLAN_IMPORT_FILE()
-    WLAN_DELETE_FILE()
-    print("COUNTING DOWN 15 SECONDS\n\n###################################################")
-    time.sleep(15)
+    print("O) COUNTING DOWN 45 SECONDS\n\n###################################################")
+    time.sleep(45)
 
