@@ -6,7 +6,7 @@ import WLAN_JSON_MYSQL
 def WLAN_MOVE_FILE():
     try:
         print("\n\n###################################################\n\nO) MOVING JSON FILE TO DATABASE FOLDER")
-        sp.getoutput('mv -f /home/devnet/wlan_sensor/client/*.json /home/devnet/wlan_sensor/server/DATABASE/DATABASE.json')
+        sp.getoutput('mv -f /home/devnet/wlan_sensor/client/DATABASE.json /home/devnet/wlan_sensor/server/DATABASE/DATABASE.json')
 
     except:
         time.sleep(1)
