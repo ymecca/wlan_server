@@ -7,7 +7,7 @@ import WLAN_JSON_PASSIVE_MYSQL
 def WLAN_PASSIVE_MOVE_FILE():
     try:
         print("\n\n###################################################\n\nO) MOVING JSON FILE FROM PASSIVE COLLECT TO THE DATABASE FOLDER")
-        sp.getoutput('mv -f /home/devnet/wlan_sensor/client/PASSIVE_DATABASE.json /home/devnet/wlan_sensor/server/DATABASE/PASSIVE_DATABASE.json')
+        sp.getoutput('mv -f /home/devnet/wlan_sensor/client/DATABASE_PASSIVE.json /home/devnet/wlan_sensor/server/DATABASE/DATABASE_PASSIVE.json')
 
     except:
         time.sleep(1)
@@ -16,7 +16,7 @@ def WLAN_PASSIVE_MOVE_FILE():
 def WLAN_ACTIVE_MOVE_FILE():
     try:
         print("O) MOVING JSON FILE FROM ACTIVE COLLECT TO THE DATABASE FOLDER")
-        sp.getoutput('mv -f /home/devnet/wlan_sensor/client/ACTIVE_DATABASE.json /home/devnet/wlan_sensor/server/DATABASE/ACTIVE_DATABASE.json')
+        sp.getoutput('mv -f /home/devnet/wlan_sensor/client/DATABASE_ACTIVE.json /home/devnet/wlan_sensor/server/DATABASE/DATABASE_ACTIVE.json')
 
     except:
         time.sleep(1)
@@ -69,5 +69,4 @@ if __name__ == '__main__':
     WLAN_IMPORT_ACTIVE_FILE()
     print("O) COUNTING DOWN 10 SECONDS\n\n###################################################")
     time.sleep(10)
-
 

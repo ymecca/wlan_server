@@ -11,7 +11,7 @@ def WLAN_VALIDATE(val):
 
 
 def WLAN_MYSQL():
-       file = "/home/devnet/wlan_sensor/server/DATABASE/DATABASE.json"
+       file = "/home/devnet/wlan_sensor/server/DATABASE/DATABASE_PASSIVE.json"
        json_data=open(file).read()
        WLAN_JSON_OBJ = json.loads(json_data)
        con = pymysql.connect(host = 'localhost',user = 'grafana',passwd = 'grafana',db = 'WLAN_SENSOR')
@@ -29,7 +29,7 @@ def WLAN_MYSQL():
            TX_POWER = WLAN_VALIDATE(item.get("WLAN_TX_POWER(dBm)", None))	
            RETRIES = WLAN_VALIDATE(item.get("WLAN_RETRIES", None))	
 
-           cursor.execute("INSERT INTO SENSOR_CLIENT (ID, TIME, MAC, IPV4, DATARATE, RX_SIGNAL, TX_POWER, RETRIES) VALUES (%s, %s, %s, %s, %s, %s, %s, %s )", (ID, TIME, MAC, IPV4, DATARATE, RX_SIGNAL, TX_POWER, RETRIES))
+           cursor.execute("INSERT INTO WLAN_SENSOR_PASSIVE (ID, TIME, MAC, IPV4, DATARATE, RX_SIGNAL, TX_POWER, RETRIES) VALUES (%s, %s, %s, %s, %s, %s, %s, %s )", (ID, TIME, MAC, IPV4, DATARATE, RX_SIGNAL, TX_POWER, RETRIES))
 
        con.commit()
        con.close()
